@@ -26,4 +26,4 @@ JWT authentication.
 - Run `npm install` for each folder namely, api and client.
 - Run `npm start` for each folder to run the server and the react app.
 
-- *A project made by Aivan Tuquero*
+*A project made by Aivan Tuquero*
