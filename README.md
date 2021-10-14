@@ -2,10 +2,8 @@
 
 ## Description:
 
-This is my first time to use MERN stack,and this 
-project was made to apply my MERN stack skills.
-I also used it to learn how to implement a proper
-JWT authentication. 
+This is my first time to use MERN stack,and this project was made to apply my MERN stack skills.
+I also used it to learn how to implement a proper JWT authentication. 
 
 ## Time taken:
 
